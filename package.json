@@ -1,21 +1,30 @@
 {
-  "name": "web",
+  "name": "tfed-landing",
   "version": "1.0.0",
-  "description": "",
+  "description": "TFED is your personal tennis companion – manage your training, monitor your bonuses, and enjoy your tennis experience.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fedka367/tfed-landing.git"
+    "url": "https://github.com/fedka367/tfed-landing.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "tfed",
+    "tennis",
+    "sports",
+    "training",
+    "coach",
+    "sessions",
+    "loyalty",
+    "club"
+  ],
+  "author": "Ilya Fedotov",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fedka367/tfed-landing/issues"
   },
-  "homepage": "https://github.com/fedka367/tfed-landing#readme"
+  "homepage": "https://github.com/fedka367/tfed-landing#readme",
+  "type": "commonjs"
 }
